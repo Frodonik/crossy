@@ -287,6 +287,7 @@ li::marker{
   }
   .big_container {
     width: 300px;
+    padding: 24px;
   }
   .big_container img {
     height: 172px;
